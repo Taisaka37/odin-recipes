@@ -1,0 +1,25 @@
+.balls {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  text-align: center;
+  color: lightgreen;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: slategray;
+  color: rgb(220, 189, 255);
+}
+.container {
+  text-align: center;
+}
+
+.container img {
+  display: inline-block;
+  width: 30%;
+  margin: 0 1% 0 1%;
+}
